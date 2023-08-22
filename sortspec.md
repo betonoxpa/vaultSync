@@ -4,6 +4,7 @@ sorting-spec: |
     Inbox
     Scratchpad
     Calendar
+    Todorant
     Goals
     Projects
     Biology
