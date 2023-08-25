@@ -9,6 +9,7 @@ sorting-spec: |
     Projects
     Biology
     Chemia
+    Other
     Books
     People
     Archive
